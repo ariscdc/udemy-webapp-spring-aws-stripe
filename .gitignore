@@ -12,9 +12,6 @@ hs_err_pid*
 .DS_Store
 target/
 *.class
-mvnw
-mvnw.cmd
-.mvn
 
 ### STS ###
 .apt_generated
