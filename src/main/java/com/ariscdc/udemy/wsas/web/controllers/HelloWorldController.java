@@ -1,4 +1,4 @@
-package com.ariscdc.udemy.wsas.controllers;
+package com.ariscdc.udemy.wsas.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

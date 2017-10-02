@@ -1,4 +1,4 @@
-package com.ariscdc.udemy.wsas;
+package com.ariscdc.udemy.wsas.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
